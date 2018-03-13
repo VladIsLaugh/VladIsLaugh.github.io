@@ -84,7 +84,9 @@ font-weight: 400;
 }
 .portfolio-content-1{
 padding: 15px;
-margin-left: 40px;
+margin: 60px;
+text-align: center;
+
 
 
 }
@@ -94,6 +96,7 @@ margin-right: 40px;
 }
 .portfolio-kartinka{
 	transition: 0.4s;
+	width: 80%;
 }
 
 .portfolio-kartinka:hover{
